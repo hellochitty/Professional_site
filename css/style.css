@@ -55,6 +55,7 @@ footer.page-footer {
   margin: 0;
 }
 
+
 .headshot{
   width: 150px;
   height: 150px;
@@ -62,4 +63,7 @@ footer.page-footer {
 
 .intro{
   background-color: rgba(0, 0, 0, .8);
+}
+.bio-links{
+  padding: 0px 10px;
 }
